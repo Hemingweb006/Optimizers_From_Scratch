@@ -1,5 +1,7 @@
 # Optimization Algorithms from Scratch
 
+![Gradient Descent](optimizers7.gif)
+
 This repository contains a comprehensive notebook explaining and implementing the optimization algorithms that are commonly used to train machine learning and deep learning models.
 
 Unlike most tutorials that simply rely on existing frameworks such as PyTorch or TensorFlow, this notebook builds every optimizer from first principles. The objective is to understand the mathematics behind each algorithm before using high-level libraries.
